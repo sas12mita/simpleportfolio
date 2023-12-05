@@ -1,0 +1,68 @@
+.indexmain ,h1{
+    font-family:  Monospace;
+    padding-top: 50px;
+  }
+  nav{
+    color: white;
+  }
+  ul li a{
+    font-size: 40px;
+  }
+  .buttons{
+  margin-left: 100px;
+  }
+  .gridestyle{
+    background-color: rgb(200, 229, 244);
+    width: 300px;
+    height: 250px;
+    border: 2px solid white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-sizing: border-box;
+    padding: 10px;
+  }
+  .gridestyle:hover{
+    background-color: rgb(236, 242, 205);
+  }
+  .gridhead{
+    background-color: antiquewhite;
+  margin-top: -25px;
+  height: 40px;
+  width:105px;
+  padding-top: 10px;
+  }
+  .formstyle{
+    background-color: rgb(200, 229, 244);
+    width: 330px;
+    height: 399px;
+    border: 2px solid white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-sizing: border-box;
+    padding: 10px;
+  }
+  .footer {
+      padding: 20px 0;
+      background-color: beige;
+          }
+  
+          .footer a {
+              color: #131111;
+          }
+  
+          .footer a:hover {
+              color: #ff6f61;
+          }
+          .footer i{
+            padding: 10px;
+            font-size: 45x;
+            width: 30px;
+            text-align: center;
+            text-decoration: none;
+        
+            height: 50px;
+            border-radius: 40%;
+            box-sizing: 20px;
+          }
+  
+          
+  
+     
